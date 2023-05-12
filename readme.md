@@ -45,3 +45,7 @@ Step 5:
     you should be able to use your fingerprint to authenticate sudo
 
 
+Refrences:
+
+    https://wiki.archlinux.org/title/Fprint
+    https://www.freedesktop.org/wiki/Software/fprint/
